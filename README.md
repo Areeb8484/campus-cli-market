@@ -1,6 +1,6 @@
 # 🎓 Campus CLI Marketplace
 
-A command-line marketplace for students to post and browse items or services locally. Built for the [TerminalCraft](https://hackclub.com/terminalcraft/) competition!
+A command-line marketplace for students to post and browse items or services locally. Built for the [TerminalCraft](https://terminalcraft.hackclub.com/) competition!
 
 ---
 
