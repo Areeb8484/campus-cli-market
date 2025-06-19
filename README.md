@@ -13,6 +13,12 @@ A command-line marketplace for students to post and browse items or services loc
 - ✅ Easy to use — no setup required
 - ✅ Cross-platform: works on Windows, macOS, and Linux
 
+---
+
+## 🖼️ Demo Screenshot
+
+![demo]([https://i.imgur.com/your_demo_img.png](https://imgur.com/a/sJ1VzKh))  
+> Example of viewing and posting listings.
 
 ---
 
