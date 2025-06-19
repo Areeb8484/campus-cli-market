@@ -17,7 +17,7 @@ A command-line marketplace for students to post and browse items or services loc
 
 ## 🖼️ Demo Screenshot
 
-![demo]([https://i.imgur.com/your_demo_img.png](https://imgur.com/a/sJ1VzKh))  
+![demo](https://imgur.com/a/lTrGhNr)  
 > Example of viewing and posting listings.
 
 ---
